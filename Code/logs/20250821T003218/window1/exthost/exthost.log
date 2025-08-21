@@ -1,0 +1,149 @@
+2025-08-21 00:32:20.117 [info] Extension host with pid 40128 started
+2025-08-21 00:32:20.117 [info] Skipping acquiring lock for /home/ranger/.config/Code/User/workspaceStorage/5f263b07bdd1b3bfc6c05d89530bdc96.
+2025-08-21 00:32:20.287 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-08-21 00:32:20.313 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-21 00:32:20.339 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-08-21 00:32:20.397 [info] ExtensionService#_doActivateExtension leizongmin.node-module-intellisense, startup: false, activationEvent: 'onLanguage:html'
+2025-08-21 00:32:20.951 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-08-21 00:32:20.953 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+2025-08-21 00:32:21.123 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-08-21 00:32:21.161 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-08-21 00:32:21.196 [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek, startup: true, activationEvent: 'workspaceContains:**/*.css,**/*.scss,**/*.sass,**/*.less'
+2025-08-21 00:32:21.348 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-21 00:32:21.356 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-21 00:32:21.403 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-21 00:32:21.590 [info] Eager extensions activated
+2025-08-21 00:32:21.608 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 00:32:21.610 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 00:32:21.628 [info] ExtensionService#_doActivateExtension alexdauenhauer.catppuccin-noctis-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 00:32:21.632 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 00:32:21.670 [info] ExtensionService#_doActivateExtension brian-njogu.gitlantis, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 00:32:21.676 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 00:32:22.140 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 00:32:22.142 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 00:32:22.421 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 00:32:54.237 [error] CodeExpectedError: Unable to write into user settings because the file has unsaved changes. Please save the user settings file first and then try again.
+    at uyt.z (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:6793)
+    at uyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:9955)
+    at uyt.o (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3874)
+    at Object.factory (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3774)
+    at Sv.j (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75430)
+    at vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75342
+    at new Promise (<anonymous>)
+    at Sv.queue (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75284)
+    at uyt.writeConfiguration (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3743)
+    at Arn.Hb (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:42739)
+2025-08-21 00:32:54.237 [error] CodeExpectedError: Unable to write into user settings because the file has unsaved changes. Please save the user settings file first and then try again.
+    at uyt.z (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:6793)
+    at uyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:9955)
+    at uyt.o (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3874)
+    at Object.factory (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3774)
+    at Sv.j (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75430)
+    at vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75342
+    at new Promise (<anonymous>)
+    at Sv.queue (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75284)
+    at uyt.writeConfiguration (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3743)
+    at Arn.Hb (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:42739)
+2025-08-21 00:32:54.237 [error] CodeExpectedError: Unable to write into user settings because the file has unsaved changes. Please save the user settings file first and then try again.
+    at uyt.z (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:6793)
+    at uyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:9955)
+    at uyt.o (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3874)
+    at Object.factory (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3774)
+    at Sv.j (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75430)
+    at vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75342
+    at new Promise (<anonymous>)
+    at Sv.queue (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75284)
+    at uyt.writeConfiguration (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3743)
+    at Arn.Hb (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:42739)
+2025-08-21 00:32:59.047 [error] CodeExpectedError: Unable to write into user settings because the file has unsaved changes. Please save the user settings file first and then try again.
+    at uyt.z (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:6793)
+    at uyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:9955)
+    at uyt.o (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3874)
+    at Object.factory (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3774)
+    at Sv.j (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75430)
+    at vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75342
+    at new Promise (<anonymous>)
+    at Sv.queue (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75284)
+    at uyt.writeConfiguration (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3743)
+    at Arn.Hb (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:42739)
+2025-08-21 00:32:59.049 [error] CodeExpectedError: Unable to write into user settings because the file has unsaved changes. Please save the user settings file first and then try again.
+    at uyt.z (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:6793)
+    at uyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:9955)
+    at uyt.o (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3874)
+    at Object.factory (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3774)
+    at Sv.j (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75430)
+    at vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75342
+    at new Promise (<anonymous>)
+    at Sv.queue (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75284)
+    at uyt.writeConfiguration (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3743)
+    at Arn.Hb (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:42739)
+2025-08-21 00:32:59.050 [error] CodeExpectedError: Unable to write into user settings because the file has unsaved changes. Please save the user settings file first and then try again.
+    at uyt.z (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:6793)
+    at uyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:9955)
+    at uyt.o (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3874)
+    at Object.factory (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3774)
+    at Sv.j (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75430)
+    at vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75342
+    at new Promise (<anonymous>)
+    at Sv.queue (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75284)
+    at uyt.writeConfiguration (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3743)
+    at Arn.Hb (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:42739)
+2025-08-21 00:33:04.136 [error] CodeExpectedError: Unable to write into user settings because the file has unsaved changes. Please save the user settings file first and then try again.
+    at uyt.z (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:6793)
+    at uyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:9955)
+    at uyt.o (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3874)
+    at Object.factory (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3774)
+    at Sv.j (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75430)
+    at vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75342
+    at new Promise (<anonymous>)
+    at Sv.queue (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75284)
+    at uyt.writeConfiguration (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3743)
+    at Arn.Hb (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:42739)
+2025-08-21 00:33:04.139 [error] CodeExpectedError: Unable to write into user settings because the file has unsaved changes. Please save the user settings file first and then try again.
+    at uyt.z (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:6793)
+    at uyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:9955)
+    at uyt.o (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3874)
+    at Object.factory (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3774)
+    at Sv.j (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75430)
+    at vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75342
+    at new Promise (<anonymous>)
+    at Sv.queue (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75284)
+    at uyt.writeConfiguration (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3743)
+    at Arn.Hb (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:42739)
+2025-08-21 00:33:04.140 [error] CodeExpectedError: Unable to write into user settings because the file has unsaved changes. Please save the user settings file first and then try again.
+    at uyt.z (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:6793)
+    at uyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:9955)
+    at uyt.o (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3874)
+    at Object.factory (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3774)
+    at Sv.j (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75430)
+    at vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75342
+    at new Promise (<anonymous>)
+    at Sv.queue (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:30:75284)
+    at uyt.writeConfiguration (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:3743)
+    at Arn.Hb (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:42739)
+2025-08-21 00:36:10.028 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-08-21 00:36:10.073 [info] ExtensionService#_doActivateExtension solnurkarim.html-to-css-autocompletion, startup: false, activationEvent: 'onLanguage:css'
+2025-08-21 00:45:43.849 [info] ExtensionService#_doActivateExtension Xav1erSue.code-glow, startup: false, activationEvent: 'onCommand:code-glow.enableGlow'
+2025-08-21 00:45:43.854 [error] Error: ENOENT: no such file or directory, open '/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/code/electron-sandbox/workbench/code-glow.js'
+    at Object.writeFileSync (node:fs:2440:20)
+    at /home/ranger/.vscode/extensions/xav1ersue.code-glow-1.0.0/dist/extension.js:1:1188
+    at Ab.h (file:///nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:41572)
+    at Ab.$executeContributedCommand (file:///nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:42463)
+    at a4.S (file:///nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:117864)
+    at a4.Q (file:///nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:117644)
+    at a4.M (file:///nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:116733)
+    at a4.L (file:///nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115838)
+    at Gh.value (file:///nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:114635)
+    at $.C (file:///nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at $.fire (file:///nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+    at ao.fire (file:///nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9459)
+    at Gh.value (file:///nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:356:8152)
+    at $.C (file:///nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2375)
+    at $.fire (file:///nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2593)
+    at ao.fire (file:///nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9459)
+    at MessagePortMain.<anonymous> (file:///nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:356:6444)
+    at MessagePortMain.emit (node:events:518:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:3073) code-glow.enableGlow {"value":"Xav1erSue.code-glow","_lower":"xav1ersue.code-glow"}
+2025-08-21 00:47:03.928 [info] ExtensionService#_doActivateExtension CodeReviewer14.cyber77-vscode, startup: false, activationEvent: '*'
+2025-08-21 00:48:50.452 [info] Extension host terminating: renderer closed the MessagePort
+2025-08-21 00:48:50.495 [info] Extension host with pid 40128 exiting with code 0

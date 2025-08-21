@@ -1,0 +1,43 @@
+body,html {
+    background-color: #051825 !important;
+   
+
+}
+
+
+div {
+  background-color: transparent !important;
+}
+
+* {
+  color:  #b9e0ff !important ;
+}
+
+
+
+
+ytmusic-app {
+  background: #051825 !important; 
+}
+
+
+ytmusic-app-layout {
+  background: #051825 !important;
+}
+
+
+
+
+ytmusic-player-bar .progress-bar-background {
+  background: #b9e0ff;
+}
+
+
+ytmusic-player-bar .progress-bar-played {
+  background: #b9e0ff;
+}
+
+
+ytmusic-player-bar .progress-bar-thumb {
+  background: #b9e0ff;
+}

@@ -1,0 +1,9 @@
+* {
+    background-color: #051825 !important;
+    color: #b9e0ff !important;
+
+}
+
+:root {
+  --yt-spec-brand-color: #b9e0ff !important; /* Or any color you want */
+}

@@ -1,0 +1,20 @@
+2025/08/21-12:38:13.781 852 Reusing MANIFEST /home/ranger/.config/YouTube Music/Local Storage/leveldb/MANIFEST-000001
+2025/08/21-12:38:13.794 852 Recovering log #114
+2025/08/21-12:38:13.794 852 Level-0 table #117: started
+2025/08/21-12:38:13.796 852 Level-0 table #117: 13806 bytes OK
+2025/08/21-12:38:13.798 852 Delete type=0 #114
+2025/08/21-13:36:02.203 853 Level-0 table #120: started
+2025/08/21-13:36:02.210 853 Level-0 table #120: 14520 bytes OK
+2025/08/21-13:36:02.211 853 Delete type=0 #118
+2025/08/21-16:34:49.056 853 Level-0 table #122: started
+2025/08/21-16:34:49.063 853 Level-0 table #122: 14223 bytes OK
+2025/08/21-16:34:49.064 853 Delete type=0 #119
+2025/08/21-16:34:49.064 853 Compacting 4@0 + 1@1 files
+2025/08/21-16:34:49.065 853 Generated table #123@0: 13 keys, 1116 bytes
+2025/08/21-16:34:49.065 853 Compacted 4@0 + 1@1 files => 1116 bytes
+2025/08/21-16:34:49.066 853 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/21-16:34:49.066 853 Delete type=2 #113
+2025/08/21-16:34:49.066 853 Delete type=2 #120
+2025/08/21-16:34:49.066 853 Delete type=2 #122
+2025/08/21-16:34:49.066 853 Delete type=2 #117
+2025/08/21-16:34:49.066 853 Delete type=2 #115

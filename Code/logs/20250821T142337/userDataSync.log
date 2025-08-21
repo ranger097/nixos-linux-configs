@@ -1,0 +1,117 @@
+2025-08-21 14:23:38.195 [info] [AutoSync] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-08-21 14:23:38.196 [info] [AutoSync] Enabled.
+2025-08-21 14:23:38.196 [info] [AutoSync] Suspended until auth token is available.
+2025-08-21 14:23:38.689 [info] [AutoSync] Triggered by Interval
+2025-08-21 14:23:38.689 [info] Sync started.
+2025-08-21 14:23:39.050 [info] Settings: No changes found during synchronizing settings.
+2025-08-21 14:23:39.117 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-08-21 14:23:39.153 [info] Snippets: No changes found during synchronizing snippets.
+2025-08-21 14:23:39.171 [info] Tasks: No changes found during synchronizing tasks.
+2025-08-21 14:23:39.174 [info] Mcp: No changes found during synchronizing mcp.
+2025-08-21 14:23:39.206 [info] GlobalState: No changes found during synchronizing ui state.
+2025-08-21 14:23:39.287 [info] Extensions: No changes found during synchronizing extensions.
+2025-08-21 14:23:39.289 [info] Prompts: No changes found during synchronizing prompts.
+2025-08-21 14:23:39.290 [info] Profiles: No changes found during synchronizing profiles.
+2025-08-21 14:23:39.291 [info] Sync done. Took 603ms
+2025-08-21 14:24:08.298 [info] [AutoSync] Triggered by Activity
+2025-08-21 14:24:08.299 [info] Sync started.
+2025-08-21 14:24:08.373 [info] Settings: No changes found during synchronizing settings.
+2025-08-21 14:24:08.377 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-08-21 14:24:08.380 [info] Snippets: No changes found during synchronizing snippets.
+2025-08-21 14:24:08.382 [info] Tasks: No changes found during synchronizing tasks.
+2025-08-21 14:24:08.383 [info] Mcp: No changes found during synchronizing mcp.
+2025-08-21 14:24:08.386 [info] GlobalState: No changes found during synchronizing ui state.
+2025-08-21 14:24:08.474 [info] Extensions: No changes found during synchronizing extensions.
+2025-08-21 14:24:08.475 [info] Prompts: No changes found during synchronizing prompts.
+2025-08-21 14:24:08.476 [info] Profiles: No changes found during synchronizing profiles.
+2025-08-21 14:24:08.477 [info] Sync done. Took 180ms
+2025-08-21 14:24:42.179 [info] [AutoSync] Triggered by Activity
+2025-08-21 14:24:42.179 [info] Sync started.
+2025-08-21 14:24:42.325 [info] Settings: No changes found during synchronizing settings.
+2025-08-21 14:24:42.328 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-08-21 14:24:42.329 [info] Snippets: No changes found during synchronizing snippets.
+2025-08-21 14:24:42.331 [info] Tasks: No changes found during synchronizing tasks.
+2025-08-21 14:24:42.332 [info] Mcp: No changes found during synchronizing mcp.
+2025-08-21 14:24:42.334 [info] GlobalState: No changes found during synchronizing ui state.
+2025-08-21 14:24:42.411 [info] Extensions: No changes found during synchronizing extensions.
+2025-08-21 14:24:42.412 [info] Prompts: No changes found during synchronizing prompts.
+2025-08-21 14:24:42.413 [info] Profiles: No changes found during synchronizing profiles.
+2025-08-21 14:24:42.413 [info] Sync done. Took 235ms
+2025-08-21 14:25:23.082 [info] [AutoSync] Triggered by Activity
+2025-08-21 14:25:23.083 [info] Sync started.
+2025-08-21 14:25:23.178 [info] Settings: No changes found during synchronizing settings.
+2025-08-21 14:25:23.185 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-08-21 14:25:23.188 [info] Snippets: No changes found during synchronizing snippets.
+2025-08-21 14:25:23.190 [info] Tasks: No changes found during synchronizing tasks.
+2025-08-21 14:25:23.192 [info] Mcp: No changes found during synchronizing mcp.
+2025-08-21 14:25:23.196 [info] GlobalState: No changes found during synchronizing ui state.
+2025-08-21 14:25:23.278 [info] Extensions: No changes found during synchronizing extensions.
+2025-08-21 14:25:23.279 [info] Prompts: No changes found during synchronizing prompts.
+2025-08-21 14:25:23.280 [info] Profiles: No changes found during synchronizing profiles.
+2025-08-21 14:25:23.281 [info] Sync done. Took 198ms
+2025-08-21 14:25:34.174 [info] [AutoSync] Triggered by Activity
+2025-08-21 14:25:34.174 [info] Sync started.
+2025-08-21 14:25:34.493 [info] Settings: Updated remote settings
+2025-08-21 14:25:34.495 [info] Settings: Updated last synchronized settings
+2025-08-21 14:25:34.496 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-08-21 14:25:34.498 [info] Snippets: No changes found during synchronizing snippets.
+2025-08-21 14:25:34.500 [info] Tasks: No changes found during synchronizing tasks.
+2025-08-21 14:25:34.501 [info] Mcp: No changes found during synchronizing mcp.
+2025-08-21 14:25:34.639 [info] GlobalState: Updated remote ui state. Updated: colorThemeData.
+2025-08-21 14:25:34.647 [info] GlobalState: Updated last synchronized ui state
+2025-08-21 14:25:34.676 [info] Extensions: No changes found during synchronizing extensions.
+2025-08-21 14:25:34.684 [info] Prompts: No changes found during synchronizing prompts.
+2025-08-21 14:25:34.684 [info] Profiles: No changes found during synchronizing profiles.
+2025-08-21 14:25:34.686 [info] Sync done. Took 512ms
+2025-08-21 14:25:37.272 [info] [AutoSync] Triggered by Activity
+2025-08-21 14:25:37.272 [info] Sync started.
+2025-08-21 14:25:37.341 [info] Settings: No changes found during synchronizing settings.
+2025-08-21 14:25:37.343 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-08-21 14:25:37.345 [info] Snippets: No changes found during synchronizing snippets.
+2025-08-21 14:25:37.348 [info] Tasks: No changes found during synchronizing tasks.
+2025-08-21 14:25:37.349 [info] Mcp: No changes found during synchronizing mcp.
+2025-08-21 14:25:37.351 [info] GlobalState: No changes found during synchronizing ui state.
+2025-08-21 14:25:37.383 [info] Extensions: No changes found during synchronizing extensions.
+2025-08-21 14:25:37.384 [info] Prompts: No changes found during synchronizing prompts.
+2025-08-21 14:25:37.384 [info] Profiles: No changes found during synchronizing profiles.
+2025-08-21 14:25:37.385 [info] Sync done. Took 114ms
+2025-08-21 14:25:57.903 [info] [AutoSync] Triggered by Activity
+2025-08-21 14:25:57.903 [info] Sync started.
+2025-08-21 14:25:58.036 [info] Settings: Updated remote settings
+2025-08-21 14:25:58.039 [info] Settings: Updated last synchronized settings
+2025-08-21 14:25:58.040 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-08-21 14:25:58.042 [info] Snippets: No changes found during synchronizing snippets.
+2025-08-21 14:25:58.043 [info] Tasks: No changes found during synchronizing tasks.
+2025-08-21 14:25:58.044 [info] Mcp: No changes found during synchronizing mcp.
+2025-08-21 14:25:58.167 [info] GlobalState: Updated remote ui state. Updated: colorThemeData.
+2025-08-21 14:25:58.175 [info] GlobalState: Updated last synchronized ui state
+2025-08-21 14:25:58.212 [info] Extensions: No changes found during synchronizing extensions.
+2025-08-21 14:25:58.213 [info] Prompts: No changes found during synchronizing prompts.
+2025-08-21 14:25:58.214 [info] Profiles: No changes found during synchronizing profiles.
+2025-08-21 14:25:58.215 [info] Sync done. Took 312ms
+2025-08-21 14:26:01.001 [info] [AutoSync] Triggered by Activity
+2025-08-21 14:26:01.001 [info] Sync started.
+2025-08-21 14:26:01.052 [info] Settings: No changes found during synchronizing settings.
+2025-08-21 14:26:01.054 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-08-21 14:26:01.056 [info] Snippets: No changes found during synchronizing snippets.
+2025-08-21 14:26:01.058 [info] Tasks: No changes found during synchronizing tasks.
+2025-08-21 14:26:01.058 [info] Mcp: No changes found during synchronizing mcp.
+2025-08-21 14:26:01.062 [info] GlobalState: No changes found during synchronizing ui state.
+2025-08-21 14:26:01.092 [info] Extensions: No changes found during synchronizing extensions.
+2025-08-21 14:26:01.094 [info] Prompts: No changes found during synchronizing prompts.
+2025-08-21 14:26:01.095 [info] Profiles: No changes found during synchronizing profiles.
+2025-08-21 14:26:01.096 [info] Sync done. Took 96ms
+2025-08-21 14:26:07.668 [info] [AutoSync] Triggered by Activity
+2025-08-21 14:26:07.668 [info] Sync started.
+2025-08-21 14:26:07.852 [info] Settings: Updated remote settings
+2025-08-21 14:26:07.861 [info] Settings: Updated last synchronized settings
+2025-08-21 14:26:07.862 [info] Keybindings: No changes found during synchronizing keybindings.
+2025-08-21 14:26:07.864 [info] Snippets: No changes found during synchronizing snippets.
+2025-08-21 14:26:07.865 [info] Tasks: No changes found during synchronizing tasks.
+2025-08-21 14:26:07.866 [info] Mcp: No changes found during synchronizing mcp.
+2025-08-21 14:26:07.977 [info] GlobalState: Updated remote ui state. Updated: colorThemeData.
+2025-08-21 14:26:07.986 [info] GlobalState: Updated last synchronized ui state
+2025-08-21 14:26:08.016 [info] Extensions: No changes found during synchronizing extensions.
+2025-08-21 14:26:08.018 [info] Prompts: No changes found during synchronizing prompts.
+2025-08-21 14:26:08.019 [info] Profiles: No changes found during synchronizing profiles.
+2025-08-21 14:26:08.019 [info] Sync done. Took 352ms

@@ -1,0 +1,134 @@
+[Server(74947) futbol/] onInitialize
+[Server(74957) futbol/] onInitialize
+[Server(74947) futbol/] Number of style sheets - 1
+[Server(74957) futbol/] Number of style sheets - 1
+[Server(74947) futbol/] setupInitialStylemap
+[Server(74957) futbol/] setupInitialStylemap
+a 487
+a 487
+  html 17 21
+  html 17 21
+  head 34 38
+  head 34 38
+  meta 45 49
+  meta 45 49
+  meta 72 76
+  meta 72 76
+  title 147 152
+  title 147 152
+  title 163 168
+  title 163 168
+  link 175 179
+  link 175 179
+  body 222 226
+  body 222 226
+  header 233 239
+  header 233 239
+  nav 250 253
+  nav 250 253
+  div 268 271
+  div 268 271
+  h1 290 292
+  h1 290 292
+  h1 320 322
+  h1 320 322
+  div 338 341
+  div 338 341
+  div 356 359
+  div 356 359
+  a 396 397
+  a 396 397
+  a 422 423
+  a 422 423
+  a 442 443
+  a 442 443
+  a 467 468
+  a 467 468
+  a 487 488
+  a 487 488
+a is a "html tag"
+a is a "html tag"
+Parsing main.css
+Parsing main.css
+main.css has 17 symbols
+main.css has 17 symbols
+Searching through them all for /(^|[\s>+~])a(\[[^\]]*\]|:{1,2}[\w-()]+|\.[\w-]+|#[\w-]+)*\s*/
+Searching through them all for /(^|[\s>+~])a(\[[^\]]*\]|:{1,2}[\w-()]+|\.[\w-]+|#[\w-]+)*\s*/
+Done
+Done
+href= 489
+  html 17 21
+  head 34 38
+  meta 45 49
+  meta 72 76
+href= 489
+  title 147 152
+  html 17 21
+  title 163 168
+  head 34 38
+  link 175 179
+  meta 45 49
+  body 222 226
+  meta 72 76
+  header 233 239
+  title 147 152
+  nav 250 253
+  title 163 168
+  div 268 271
+  link 175 179
+  h1 290 292
+  body 222 226
+  h1 320 322
+  header 233 239
+  div 338 341
+  nav 250 253
+  div 356 359
+  div 268 271
+  a 396 397
+  h1 290 292
+  a 422 423
+  h1 320 322
+  a 442 443
+  div 338 341
+  a 467 468
+  div 356 359
+  a 487 488
+  a 396 397
+  a 512 513
+  a 422 423
+  a 532 533
+  a 442 443
+  a 559 560
+  a 467 468
+  a 579 580
+  a 487 488
+  a 606 607
+  a 512 513
+  div 623 626
+  a 532 533
+  nav 651 654
+  a 559 560
+  header 662 668
+  a 579 580
+  main 675 679
+  a 606 607
+  div 711 714
+  div 623 626
+  video 746 751
+  nav 651 654
+  video 826 831
+  header 662 668
+  div 843 846
+  main 675 679
+  main 881 885
+  div 711 714
+  body 894 898
+  video 746 751
+  html 902 906
+  video 826 831
+Invalid Selector
+  div 843 846
+  main 881 885
+  body 894 898
+  html 902 906
+Invalid Selector

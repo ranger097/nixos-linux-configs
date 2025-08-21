@@ -1,0 +1,18 @@
+2025/08/21-12:38:14.882 853 Reusing MANIFEST /home/ranger/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/21-12:38:14.882 853 Recovering log #96
+2025/08/21-12:38:14.883 853 Reusing old log /home/ranger/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000096.log 
+2025/08/21-12:38:17.224 853 Compacting 1@1 + 1@2 files
+2025/08/21-12:38:17.229 853 Generated table #99@1: 4075 keys, 152477 bytes
+2025/08/21-12:38:17.230 853 Compacted 1@1 + 1@2 files => 152477 bytes
+2025/08/21-12:38:17.231 853 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/21-12:38:17.231 853 Delete type=2 #94
+2025/08/21-12:38:17.231 853 Delete type=2 #97
+2025/08/21-15:45:06.356 853 Level-0 table #101: started
+2025/08/21-15:45:06.369 853 Level-0 table #101: 1213350 bytes OK
+2025/08/21-15:45:06.371 853 Delete type=0 #96
+2025/08/21-16:36:47.352 853 Compacting 1@1 + 1@2 files
+2025/08/21-16:36:47.364 853 Generated table #102@1: 4324 keys, 142391 bytes
+2025/08/21-16:36:47.364 853 Compacted 1@1 + 1@2 files => 142391 bytes
+2025/08/21-16:36:47.365 853 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/21-16:36:47.365 853 Delete type=2 #101
+2025/08/21-16:36:47.365 853 Delete type=2 #99

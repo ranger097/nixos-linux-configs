@@ -1,0 +1,31 @@
+2025-08-21 13:33:07.877 [info] Extension host with pid 74637 started
+2025-08-21 13:33:07.877 [info] Skipping acquiring lock for /home/ranger/.config/Code/User/workspaceStorage/5f263b07bdd1b3bfc6c05d89530bdc96.
+2025-08-21 13:33:08.076 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-08-21 13:33:08.103 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-21 13:33:08.121 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-08-21 13:33:08.178 [info] ExtensionService#_doActivateExtension leizongmin.node-module-intellisense, startup: false, activationEvent: 'onLanguage:html'
+2025-08-21 13:33:08.728 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-08-21 13:33:08.730 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+2025-08-21 13:33:08.886 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-08-21 13:33:08.923 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-08-21 13:33:08.963 [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek, startup: true, activationEvent: 'workspaceContains:**/*.css,**/*.scss,**/*.sass,**/*.less'
+2025-08-21 13:33:09.226 [warning] DiagnosticCollection with name 'css-peek' does already exist.
+2025-08-21 13:33:09.251 [info] Eager extensions activated
+2025-08-21 13:33:09.259 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 13:33:09.260 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 13:33:09.278 [info] ExtensionService#_doActivateExtension alexdauenhauer.catppuccin-noctis-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 13:33:09.282 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 13:33:09.312 [info] ExtensionService#_doActivateExtension brian-njogu.gitlantis, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 13:33:09.318 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 13:33:09.719 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 13:33:09.720 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 13:33:09.992 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 13:33:10.102 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-21 13:33:10.108 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-21 13:33:10.149 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-21 13:33:12.359 [error] [ecmel.vscode-html-css] provider FAILED
+2025-08-21 13:33:12.359 [error] undefined
+2025-08-21 13:33:12.454 [error] [ecmel.vscode-html-css] provider FAILED
+2025-08-21 13:33:12.454 [error] undefined
+2025-08-21 13:33:34.494 [info] Extension host terminating: renderer closed the MessagePort
+2025-08-21 13:33:34.517 [info] Extension host with pid 74637 exiting with code 0

@@ -1,0 +1,7 @@
+2025-08-21 16:56:51.418 [info] Getting Manifest... brian-njogu.gitlantis
+2025-08-21 16:56:51.810 [info] Installing extension: brian-njogu.gitlantis {"productVersion":{"version":"1.102.3","date":"2025-07-29T03:00:23.339Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ranger/.vscode/extensions/extensions.json","path":"/home/ranger/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-08-21 16:57:23.540 [info] Extension signature verification result for brian-njogu.gitlantis: Success. Internal Code: 0. Executed: true. Duration: 30647ms.
+2025-08-21 16:57:23.605 [info] Extracted extension to file:///home/ranger/.vscode/extensions/brian-njogu.gitlantis-0.0.7: brian-njogu.gitlantis
+2025-08-21 16:57:23.608 [info] Renamed to /home/ranger/.vscode/extensions/brian-njogu.gitlantis-0.0.7
+2025-08-21 16:57:23.631 [info] Marked extension as removed brian-njogu.gitlantis-0.0.6
+2025-08-21 16:57:23.641 [info] Extension installed successfully: brian-njogu.gitlantis vscode-userdata:/home/ranger/.vscode/extensions/extensions.json

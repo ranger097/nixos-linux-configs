@@ -1,0 +1,269 @@
+2025-08-21 00:32:19.118 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-21 00:32:19.128 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-21 00:32:19.128 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-21 00:32:19.520 [info] Started local extension host with pid 40128.
+2025-08-21 00:32:19.886 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.prettyPrint` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.887 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.toggleSkippingFile` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.887 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.addCustomBreakpoints` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.887 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.removeAllCustomBreakpoints` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.888 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.addXHRBreakpoints` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.888 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.removeXHRBreakpoint` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.888 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.editXHRBreakpoints` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.888 [info] [ms-vscode.js-debug-nightly]: Command `extension.pwa-node-debug.attachNodeProcess` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.889 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.npmScript` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.889 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.createDebuggerTerminal` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.889 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.startProfile` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.889 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.stopProfile` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.889 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.revealPage` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.889 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.debugLink` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.890 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.createDiagnostics` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.890 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.getDiagnosticLogs` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.890 [info] [ms-vscode.js-debug-nightly]: Command `extension.node-debug.startWithStopOnEntry` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.890 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.openEdgeDevTools` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.890 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.add` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.891 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.remove` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.891 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.removeAll` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.891 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.goToCaller` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.891 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.gotToTarget` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.891 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.enableSourceMapStepping` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.891 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.disableSourceMapStepping` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.892 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.viewRequest` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.892 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.clear` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.892 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.openBody` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.892 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.openBodyInHex` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.892 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.replayXHR` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.892 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.copyUri` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:32:19.908 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.codelens.npmScripts'. This property is already registered.
+2025-08-21 00:32:19.909 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.terminalOptions'. This property is already registered.
+2025-08-21 00:32:19.909 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.automaticallyTunnelRemoteServer'. This property is already registered.
+2025-08-21 00:32:19.909 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.debugByLinkOptions'. This property is already registered.
+2025-08-21 00:32:19.909 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.pickAndAttachOptions'. This property is already registered.
+2025-08-21 00:32:19.910 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.autoAttachFilter'. This property is already registered.
+2025-08-21 00:32:19.910 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.autoAttachSmartPattern'. This property is already registered.
+2025-08-21 00:32:19.910 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.breakOnConditionalError'. This property is already registered.
+2025-08-21 00:32:19.910 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.unmapMissingSources'. This property is already registered.
+2025-08-21 00:32:19.910 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.defaultRuntimeExecutable'. This property is already registered.
+2025-08-21 00:32:19.911 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.resourceRequestOptions'. This property is already registered.
+2025-08-21 00:32:19.911 [warning] [ms-vscode.js-debug-nightly]: Cannot register 'debug.javascript.enableNetworkView'. This property is already registered.
+2025-08-21 00:32:19.938 [error] [ms-vscode.js-debug-nightly]: Cannot register multiple views with same id `jsBrowserBreakpoints`
+2025-08-21 00:32:19.938 [error] [ms-vscode.js-debug-nightly]: Cannot register multiple views with same id `jsExcludedCallers`
+2025-08-21 00:32:19.939 [error] [ms-vscode.js-debug-nightly]: Cannot register multiple views with same id `jsDebugNetworkTree`
+2025-08-21 00:32:20.324 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: njk
+2025-08-21 00:32:20.325 [error] [sidthesloth.html5-boilerplate]: Unknown language in `contributes.html5-boilerplate.language`. Provided value: django-html
+2025-08-21 00:32:20.325 [error] [TaodongWu.ejs-snippets]: Unknown language in `contributes.ejs-snippets.language`. Provided value: ejs
+2025-08-21 00:32:20.325 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: blade
+2025-08-21 00:32:20.325 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: ejs
+2025-08-21 00:32:20.326 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: latte
+2025-08-21 00:32:20.326 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: tpl
+2025-08-21 00:32:20.326 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: twig
+2025-08-21 00:32:20.326 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: vue
+2025-08-21 00:32:20.326 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: vue-html
+2025-08-21 00:32:20.326 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: django-html
+2025-08-21 00:32:20.326 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: jinja-html
+2025-08-21 00:32:20.327 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: erb
+2025-08-21 00:32:20.327 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: HTML (Eex)
+2025-08-21 00:32:20.327 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: volt
+2025-08-21 00:32:20.327 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: nunjucks
+2025-08-21 00:32:20.327 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+2025-08-21 00:32:21.042 [error] [Extension Host] (node:40128) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-08-21 00:32:21.135 [info] Settings Sync: Account status changed from uninitialized to available
+2025-08-21 00:32:22.211 [info] [perf] Render performance baseline is 18ms
+2025-08-21 00:32:28.671 [warning] Settings pattern "mcp" doesn't match any settings
+2025-08-21 00:32:54.030 [error] Error: Unable to read file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json' (Error: Unable to resolve nonexistent file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json')
+    at Cyt.G (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65776)
+    at Cyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65601)
+    at async Cyt.D (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:64968)
+    at async P0t.readExtensionResource (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3390:2243)
+    at async Promise.all (index 17)
+    at async G3e.getSnippets (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:20155)
+    at async H3e.provideCompletionItems (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:14536)
+    at async vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:435:31360 file:///home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json
+2025-08-21 00:32:54.238 [error] Unable to write into user settings because the file has unsaved changes. Please save the user settings file first and then try again.
+2025-08-21 00:32:55.408 [warning] Settings pattern "mcp" doesn't match any settings
+2025-08-21 00:32:59.050 [error] Unable to write into user settings because the file has unsaved changes. Please save the user settings file first and then try again.
+2025-08-21 00:33:04.140 [error] Unable to write into user settings because the file has unsaved changes. Please save the user settings file first and then try again.
+2025-08-21 00:35:14.794 [error] Error: Unable to read file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json' (Error: Unable to resolve nonexistent file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json')
+    at Cyt.G (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65776)
+    at Cyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65601)
+    at async Cyt.D (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:64968)
+    at async P0t.readExtensionResource (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3390:2243)
+    at async Promise.all (index 17)
+    at async G3e.getSnippets (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:20155)
+    at async H3e.provideCompletionItems (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:14536)
+    at async vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:435:31360 file:///home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json
+2025-08-21 00:35:15.775 [error] Error: Unable to read file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json' (Error: Unable to resolve nonexistent file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json')
+    at Cyt.G (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65776)
+    at Cyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65601)
+    at async Cyt.D (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:64968)
+    at async P0t.readExtensionResource (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3390:2243)
+    at async Promise.all (index 17)
+    at async G3e.getSnippets (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:20155)
+    at async H3e.provideCompletionItems (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:14536)
+    at async vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:435:31360 file:///home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json
+2025-08-21 00:35:16.274 [error] Error: Unable to read file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json' (Error: Unable to resolve nonexistent file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json')
+    at Cyt.G (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65776)
+    at Cyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65601)
+    at async Cyt.D (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:64968)
+    at async P0t.readExtensionResource (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3390:2243)
+    at async Promise.all (index 17)
+    at async G3e.getSnippets (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:20155)
+    at async H3e.provideCompletionItems (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:14536)
+    at async vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:435:31360 file:///home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json
+2025-08-21 00:35:17.561 [error] Error: Unable to read file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json' (Error: Unable to resolve nonexistent file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json')
+    at Cyt.G (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65776)
+    at Cyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65601)
+    at async Cyt.D (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:64968)
+    at async P0t.readExtensionResource (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3390:2243)
+    at async Promise.all (index 17)
+    at async G3e.getSnippets (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:20155)
+    at async H3e.provideCompletionItems (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:14536)
+    at async vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:435:31360 file:///home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json
+2025-08-21 00:35:17.842 [error] Error: Unable to read file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json' (Error: Unable to resolve nonexistent file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json')
+    at Cyt.G (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65776)
+    at Cyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65601)
+    at async Cyt.D (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:64968)
+    at async P0t.readExtensionResource (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3390:2243)
+    at async Promise.all (index 17)
+    at async G3e.getSnippets (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:20155)
+    at async H3e.provideCompletionItems (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:14536)
+    at async vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:435:31360 file:///home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json
+2025-08-21 00:35:18.275 [error] Error: Unable to read file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json' (Error: Unable to resolve nonexistent file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json')
+    at Cyt.G (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65776)
+    at Cyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65601)
+    at async Cyt.D (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:64968)
+    at async P0t.readExtensionResource (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3390:2243)
+    at async Promise.all (index 17)
+    at async G3e.getSnippets (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:20155)
+    at async H3e.provideCompletionItems (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:14536)
+    at async vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:435:31360 file:///home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json
+2025-08-21 00:35:18.598 [error] Error: Unable to read file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json' (Error: Unable to resolve nonexistent file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json')
+    at Cyt.G (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65776)
+    at Cyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65601)
+    at async Cyt.D (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:64968)
+    at async P0t.readExtensionResource (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3390:2243)
+    at async Promise.all (index 17)
+    at async G3e.getSnippets (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:20155)
+    at async H3e.provideCompletionItems (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:14536)
+    at async vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:435:31360 file:///home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json
+2025-08-21 00:35:18.912 [error] Error: Unable to read file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json' (Error: Unable to resolve nonexistent file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json')
+    at Cyt.G (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65776)
+    at Cyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65601)
+    at async Cyt.D (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:64968)
+    at async P0t.readExtensionResource (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3390:2243)
+    at async Promise.all (index 17)
+    at async G3e.getSnippets (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:20155)
+    at async H3e.provideCompletionItems (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:14536)
+    at async vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:435:31360 file:///home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json
+2025-08-21 00:35:53.259 [warning] Settings pattern "mcp" doesn't match any settings
+2025-08-21 00:36:10.228 [error] Error: Unable to read file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json' (Error: Unable to resolve nonexistent file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json')
+    at Cyt.G (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65776)
+    at Cyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65601)
+    at async Cyt.D (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:64968)
+    at async P0t.readExtensionResource (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3390:2243)
+    at async Promise.all (index 17)
+    at async G3e.getSnippets (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:20155)
+    at async H3e.provideCompletionItems (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:14536)
+    at async vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:435:31360 file:///home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json
+2025-08-21 00:36:10.279 [error] Error: Unable to read file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json' (Error: Unable to resolve nonexistent file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json')
+    at Cyt.G (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65776)
+    at Cyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65601)
+    at async Cyt.D (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:64968)
+    at async P0t.readExtensionResource (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3390:2243)
+    at async Promise.all (index 17)
+    at async G3e.getSnippets (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:20155)
+    at async H3e.provideCompletionItems (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:14536)
+    at async vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:435:31360 file:///home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json
+2025-08-21 00:36:11.821 [warning] Settings pattern "mcp" doesn't match any settings
+2025-08-21 00:36:14.346 [warning] Settings pattern "mcp" doesn't match any settings
+2025-08-21 00:36:16.765 [warning] Settings pattern "mcp" doesn't match any settings
+2025-08-21 00:36:23.188 [warning] Settings pattern "mcp" doesn't match any settings
+2025-08-21 00:36:24.715 [warning] Settings pattern "mcp" doesn't match any settings
+2025-08-21 00:36:28.175 [warning] Settings pattern "mcp" doesn't match any settings
+2025-08-21 00:37:34.330 [warning] Settings pattern "mcp" doesn't match any settings
+2025-08-21 00:38:03.382 [error] Error: Unable to read file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json' (Error: Unable to resolve nonexistent file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json')
+    at Cyt.G (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65776)
+    at Cyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65601)
+    at async Cyt.D (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:64968)
+    at async P0t.readExtensionResource (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3390:2243)
+    at async Promise.all (index 17)
+    at async G3e.getSnippets (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:20155)
+    at async H3e.provideCompletionItems (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:14536)
+    at async vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:435:31360 file:///home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json
+2025-08-21 00:39:26.380 [warning] Settings pattern "mcp" doesn't match any settings
+2025-08-21 00:40:25.523 [warning] Settings pattern "mcp" doesn't match any settings
+2025-08-21 00:41:37.370 [warning] Settings pattern "mcp" doesn't match any settings
+2025-08-21 00:42:16.343 [warning] Settings pattern "mcp" doesn't match any settings
+2025-08-21 00:43:00.584 [warning] Settings pattern "mcp" doesn't match any settings
+2025-08-21 00:43:22.099 [error] Error: Unable to read file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json' (Error: Unable to resolve nonexistent file '/home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json')
+    at Cyt.G (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65776)
+    at Cyt.F (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:65601)
+    at async Cyt.D (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3360:64968)
+    at async P0t.readExtensionResource (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:3390:2243)
+    at async Promise.all (index 17)
+    at async G3e.getSnippets (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:20155)
+    at async H3e.provideCompletionItems (vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:558:14536)
+    at async vscode-file://vscode-app/nix/store/fhf7jdl0rj62y287wgz55zmr4am58aa4-vscode-1.102.3/lib/vscode/resources/app/out/vs/workbench/workbench.desktop.main.js:435:31360 file:///home/ranger/.vscode/extensions/lolkush.quickstart-0.1.0/snippets/html.json
+2025-08-21 00:44:27.394 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.prettyPrint` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.394 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.toggleSkippingFile` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.394 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.addCustomBreakpoints` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.394 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.removeAllCustomBreakpoints` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.394 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.addXHRBreakpoints` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.394 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.removeXHRBreakpoint` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.394 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.editXHRBreakpoints` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.394 [info] [ms-vscode.js-debug-nightly]: Command `extension.pwa-node-debug.attachNodeProcess` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.395 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.npmScript` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.395 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.createDebuggerTerminal` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.395 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.startProfile` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.396 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.stopProfile` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.396 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.revealPage` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.396 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.debugLink` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.396 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.createDiagnostics` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.396 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.getDiagnosticLogs` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.396 [info] [ms-vscode.js-debug-nightly]: Command `extension.node-debug.startWithStopOnEntry` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.397 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.openEdgeDevTools` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.397 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.add` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.397 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.remove` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.397 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.removeAll` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.397 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.goToCaller` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.397 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.gotToTarget` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.397 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.enableSourceMapStepping` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.397 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.disableSourceMapStepping` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.398 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.viewRequest` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.398 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.clear` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.398 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.openBody` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.398 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.openBodyInHex` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.398 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.replayXHR` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:44:27.398 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.copyUri` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.672 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.prettyPrint` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.672 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.toggleSkippingFile` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.672 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.addCustomBreakpoints` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.672 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.removeAllCustomBreakpoints` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.673 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.addXHRBreakpoints` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.673 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.removeXHRBreakpoint` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.673 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.editXHRBreakpoints` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.673 [info] [ms-vscode.js-debug-nightly]: Command `extension.pwa-node-debug.attachNodeProcess` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.673 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.npmScript` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.673 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.createDebuggerTerminal` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.673 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.startProfile` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.673 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.stopProfile` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.673 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.revealPage` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.674 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.debugLink` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.674 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.createDiagnostics` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.674 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.getDiagnosticLogs` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.674 [info] [ms-vscode.js-debug-nightly]: Command `extension.node-debug.startWithStopOnEntry` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.674 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.openEdgeDevTools` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.674 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.add` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.674 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.remove` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.674 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.removeAll` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.674 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.goToCaller` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.675 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.callers.gotToTarget` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.675 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.enableSourceMapStepping` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.676 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.disableSourceMapStepping` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.676 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.viewRequest` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.676 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.clear` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.676 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.openBody` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.676 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.openBodyInHex` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.676 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.replayXHR` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:03.676 [info] [ms-vscode.js-debug-nightly]: Command `extension.js-debug.network.copyUri` already registered by JavaScript Debugger (ms-vscode.js-debug)
+2025-08-21 00:47:04.243 [warning] Settings pattern "mcp" doesn't match any settings

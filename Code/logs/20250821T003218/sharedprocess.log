@@ -1,0 +1,45 @@
+2025-08-21 00:38:53.468 [info] Getting Manifest... iamkd.one-monokai-italics
+2025-08-21 00:38:54.053 [info] Installing extension: iamkd.one-monokai-italics {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ranger/.vscode/extensions/extensions.json","path":"/home/ranger/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.102.3","date":"2025-07-29T03:00:23.339Z"}}
+2025-08-21 00:39:25.790 [info] Extension signature verification result for iamkd.one-monokai-italics: Success. Internal Code: 0. Executed: true. Duration: 30647ms.
+2025-08-21 00:39:25.804 [info] Extracted extension to file:///home/ranger/.vscode/extensions/iamkd.one-monokai-italics-0.4.0: iamkd.one-monokai-italics
+2025-08-21 00:39:25.807 [info] Renamed to /home/ranger/.vscode/extensions/iamkd.one-monokai-italics-0.4.0
+2025-08-21 00:39:25.831 [info] Extension installed successfully: iamkd.one-monokai-italics vscode-userdata:/home/ranger/.vscode/extensions/extensions.json
+2025-08-21 00:39:52.343 [info] Getting Manifest... spixooze.oozedarktheme
+2025-08-21 00:39:52.784 [info] Installing extension: spixooze.oozedarktheme {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ranger/.vscode/extensions/extensions.json","path":"/home/ranger/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.102.3","date":"2025-07-29T03:00:23.339Z"}}
+2025-08-21 00:40:24.920 [info] Extension signature verification result for spixooze.oozedarktheme: Success. Internal Code: 0. Executed: true. Duration: 30605ms.
+2025-08-21 00:40:24.938 [info] Extracted extension to file:///home/ranger/.vscode/extensions/spixooze.oozedarktheme-0.9.1: spixooze.oozedarktheme
+2025-08-21 00:40:24.946 [info] Renamed to /home/ranger/.vscode/extensions/spixooze.oozedarktheme-0.9.1
+2025-08-21 00:40:24.971 [info] Extension installed successfully: spixooze.oozedarktheme vscode-userdata:/home/ranger/.vscode/extensions/extensions.json
+2025-08-21 00:41:05.358 [info] Getting Manifest... enkia.tokyo-night
+2025-08-21 00:41:05.806 [info] Installing extension: enkia.tokyo-night {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ranger/.vscode/extensions/extensions.json","path":"/home/ranger/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.102.3","date":"2025-07-29T03:00:23.339Z"}}
+2025-08-21 00:41:36.772 [info] Extension signature verification result for enkia.tokyo-night: Success. Internal Code: 0. Executed: true. Duration: 30616ms.
+2025-08-21 00:41:36.782 [info] Extracted extension to file:///home/ranger/.vscode/extensions/enkia.tokyo-night-1.1.2: enkia.tokyo-night
+2025-08-21 00:41:36.790 [info] Renamed to /home/ranger/.vscode/extensions/enkia.tokyo-night-1.1.2
+2025-08-21 00:41:36.814 [info] Extension installed successfully: enkia.tokyo-night vscode-userdata:/home/ranger/.vscode/extensions/extensions.json
+2025-08-21 00:41:44.492 [info] Getting Manifest... ajshortt.tokyo-hack
+2025-08-21 00:41:44.851 [info] Installing extension: ajshortt.tokyo-hack {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ranger/.vscode/extensions/extensions.json","path":"/home/ranger/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.102.3","date":"2025-07-29T03:00:23.339Z"}}
+2025-08-21 00:42:15.747 [info] Extension signature verification result for ajshortt.tokyo-hack: Success. Internal Code: 0. Executed: true. Duration: 30603ms.
+2025-08-21 00:42:15.759 [info] Extracted extension to file:///home/ranger/.vscode/extensions/ajshortt.tokyo-hack-0.3.2: ajshortt.tokyo-hack
+2025-08-21 00:42:15.768 [info] Renamed to /home/ranger/.vscode/extensions/ajshortt.tokyo-hack-0.3.2
+2025-08-21 00:42:15.790 [info] Extension installed successfully: ajshortt.tokyo-hack vscode-userdata:/home/ranger/.vscode/extensions/extensions.json
+2025-08-21 00:42:59.879 [info] Uninstalling extension from the profile: ajshortt.tokyo-hack@0.3.2 vscode-userdata:/home/ranger/.vscode/extensions/extensions.json
+2025-08-21 00:42:59.911 [info] Marked extension as removed ajshortt.tokyo-hack-0.3.2
+2025-08-21 00:43:00.032 [info] Successfully uninstalled extension from the profile ajshortt.tokyo-hack@0.3.2 vscode-userdata:/home/ranger/.vscode/extensions/extensions.json
+2025-08-21 00:43:55.880 [info] Getting Manifest... xav1ersue.code-glow
+2025-08-21 00:43:56.251 [info] Installing extension: xav1ersue.code-glow {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ranger/.vscode/extensions/extensions.json","path":"/home/ranger/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.102.3","date":"2025-07-29T03:00:23.339Z"}}
+2025-08-21 00:44:27.328 [info] Extension signature verification result for xav1ersue.code-glow: Success. Internal Code: 0. Executed: true. Duration: 30603ms.
+2025-08-21 00:44:27.341 [info] Extracted extension to file:///home/ranger/.vscode/extensions/xav1ersue.code-glow-1.0.0: xav1ersue.code-glow
+2025-08-21 00:44:27.350 [info] Renamed to /home/ranger/.vscode/extensions/xav1ersue.code-glow-1.0.0
+2025-08-21 00:44:27.370 [info] Extension installed successfully: xav1ersue.code-glow vscode-userdata:/home/ranger/.vscode/extensions/extensions.json
+2025-08-21 00:46:04.234 [info] Uninstalling extension from the profile: xav1ersue.code-glow@1.0.0 vscode-userdata:/home/ranger/.vscode/extensions/extensions.json
+2025-08-21 00:46:04.268 [info] Marked extension as removed xav1ersue.code-glow-1.0.0
+2025-08-21 00:46:04.688 [info] Successfully uninstalled extension from the profile xav1ersue.code-glow@1.0.0 vscode-userdata:/home/ranger/.vscode/extensions/extensions.json
+2025-08-21 00:46:31.436 [info] Getting Manifest... codereviewer14.cyber77-vscode
+2025-08-21 00:46:31.820 [info] Installing extension: codereviewer14.cyber77-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ranger/.vscode/extensions/extensions.json","path":"/home/ranger/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.102.3","date":"2025-07-29T03:00:23.339Z"}}
+2025-08-21 00:47:03.568 [info] Extension signature verification result for codereviewer14.cyber77-vscode: Success. Internal Code: 0. Executed: true. Duration: 30604ms.
+2025-08-21 00:47:03.616 [info] Extracted extension to file:///home/ranger/.vscode/extensions/codereviewer14.cyber77-vscode-0.0.21: codereviewer14.cyber77-vscode
+2025-08-21 00:47:03.626 [info] Renamed to /home/ranger/.vscode/extensions/codereviewer14.cyber77-vscode-0.0.21
+2025-08-21 00:47:03.653 [info] Extension installed successfully: codereviewer14.cyber77-vscode vscode-userdata:/home/ranger/.vscode/extensions/extensions.json
+2025-08-21 00:47:25.133 [info] Uninstalling extension from the profile: codereviewer14.cyber77-vscode@0.0.21 vscode-userdata:/home/ranger/.vscode/extensions/extensions.json
+2025-08-21 00:47:25.163 [info] Marked extension as removed codereviewer14.cyber77-vscode-0.0.21
+2025-08-21 00:47:25.231 [info] Successfully uninstalled extension from the profile codereviewer14.cyber77-vscode@0.0.21 vscode-userdata:/home/ranger/.vscode/extensions/extensions.json

@@ -1,0 +1,13 @@
+{
+    "editor.fontFamily": "Maple Mono",
+    "editor.codeLensFontFamily": "Maple Mono",
+    "editor.inlayHints.fontFamily": "Maple Mono",
+    "debug.console.fontFamily": "Maple Mono",
+    "editor.inlineSuggest.fontFamily": "Maple Mono",
+    "scm.inputFontFamily": "Maple Mono",
+    "terminal.integrated.fontFamily": "Maple Mono",
+    "notebook.markup.fontFamily": "Maple Mono",
+    "notebook.output.fontFamily": "Maple Mono",
+    "chat.editor.fontFamily": "Maple Mono",
+    "markdown.preview.fontFamily": "Maple Mono"
+}

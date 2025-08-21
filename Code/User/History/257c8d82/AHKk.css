@@ -1,0 +1,27 @@
+body,html {
+    background-color: #051825 !important;
+   
+
+}
+
+
+
+div {
+  background-color: transparent !important;
+}
+
+* {
+  color:  #b9e0ff !important ;
+}
+
+
+
+/* Full page background */
+ytmusic-app {
+  background: #051825 !important; /* example dark background */
+}
+
+/* Player page background */
+ytmusic-app-layout {
+  background: #051825 !important;
+}

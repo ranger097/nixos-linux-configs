@@ -1,0 +1,202 @@
+/* YouTube Music Custom Theme
+  - Dark blue background with light blue text and accents.
+  - Comprehensive Theming
+*/
+
+/* == Base & Background == */
+/* Targets the root of the page and the main app container for a solid background */
+body,
+html,
+ytmusic-app,
+ytmusic-app-layout,
+#main-panel,
+#player-page,
+#guide-content,
+ytmusic-guide-section-renderer {
+    background-color: #051825 !important;
+}
+
+/* Make most generic containers transparent to show the main background */
+ytmusic-browse-response,
+ytmusic-search-page,
+ytmusic-playlist-page,
+ytmusic-watch-page,
+ytmusic-section-list-renderer,
+.ytmusic-tabs,
+ytmusic-detail-header-renderer,
+ytmusic-two-row-item-renderer,
+ytmusic-responsive-list-item-renderer,
+ytmusic-player-queue-item {
+    background-color: transparent !important;
+}
+
+/* == Menus, Dialogs, & Overlays == */
+/* Ensures pop-ups, menus, and tooltips match the theme */
+tp-yt-paper-dialog,
+tp-yt-paper-listbox,
+ytmusic-menu-popup-renderer,
+tp-yt-paper-tooltip {
+    background-color: #051825 !important;
+    border: 1px solid rgba(185, 224, 255, 0.2) !important;
+}
+
+/* == Text Color == */
+/* Targets all primary text elements, links, and titles for consistent color */
+yt-formatted-string,
+.title,
+.subtitle,
+.byline-wrapper,
+a.yt-simple-endpoint,
+span,
+p,
+h1,
+h2,
+h3 {
+    color: #b9e0ff !important;
+    text-shadow: none !important; /* Removes any default text shadows */
+}
+
+/* == Player & Progress Bar == */
+/* Styles the music player progress bar and its components */
+ytmusic-player-bar .progress-bar-background {
+    background-color: #b9e0ff !important;
+    opacity: 0.3 !important; /* Makes the unloaded part less prominent */
+}
+
+ytmusic-player-bar .progress-bar-played,
+ytmusic-player-bar .progress-bar-thumb {
+    background-color: #b9e0ff !important;
+}
+
+/* == UI Elements & Icons == */
+/* Ensures icons also match the new color scheme */
+yt-icon,
+tp-yt-paper-icon-button {
+    color: #b9e0ff !important;
+    background-color: transparent !important; /* Ensure icon buttons don't have a background */
+}
+
+/* Styles for buttons and interactive elements */
+tp-yt-paper-tab {
+    color: #b9e0ff !important;
+    opacity: 0.7;
+}
+
+tp-yt-paper-tab[aria-selected="true"] {
+    opacity: 1;
+}
+
+.tab-content.style-scope.tp-yt-paper-tab {
+    border-bottom: 2px solid #b9e0ff !important;
+}
+
+/* Style for filter chips */
+yt-chip-cloud-chip-renderer {
+    background-color: rgba(185, 224, 255, 0.1) !important;
+    border: 1px solid rgba(185, 224, 255, 0.2) !important;
+}
+
+yt-chip-cloud-chip-renderer[is-selected] {
+    background-color: rgba(185, 224, 255, 0.3) !important;
+}
+
+/* Style for the search bar */
+ytmusic-search-box {
+    background: rgba(185, 224, 255, 0.1) !important;
+    border: 1px solid rgba(185, 224, 255, 0.2) !important;
+    border-radius: 8px !important;
+}
+
+ytmusic-search-box input {
+    color: #b9e0ff !important;
+}
+
+ytmusic-player-page[is-mweb-modernization-enabled] .side-panel.ytmusic-player-page {
+    background:  #051825 !important;
+    border-radius: 10px 10px 0 0;
+    height: calc(var(--ytmusic-player-page-inner-height) - var(--ytmusic-player-page-tabs-header-height));
+    left: 0;
+    margin: 0;
+    position: fixed;
+    top: var(--ytmusic-player-page-player-bar-height);
+    transform: translate(0,calc(var(--ytmusic-player-page-inner-height) - var(--ytmusic-player-page-tabs-header-height) - var(--ytmusic-player-page-player-bar-height)));
+    width: 100%;
+}
+
+
+.play-pause-button-wrapper.ytmusic-player-controls {
+    position: relative;
+    align-items: center;
+    background: #051825 !important;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    height: 72px;
+    justify-content: center;
+    overflow: hidden;
+    width: 72px;
+    --iron-icon-width: 100%;
+    --iron-icon-height: 100%;
+}
+
+#player-bar-background.ytmusic-app-layout {
+    right: 0;
+    background: #051825 !important;
+}
+
+.left-controls.ytmusic-player-bar, .right-controls.ytmusic-player-bar, .left-controls-buttons.ytmusic-player-bar, .right-controls-buttons.ytmusic-player-bar, .middle-controls-buttons.ytmusic-player-bar {
+    flex: none;
+    display: flex;
+    align-items: center;
+    background: #051825 !important;
+}
+
+
+ytmusic-player-bar[is-cairo-voting-animation-enabled] .middle-controls.ytmusic-player-bar {
+    view-transition-name: middle-controls;
+    background: #051825 !important;
+}
+
+
+ytmusic-app[is-bauhaus-sidenav-enabled] {
+    --ytmusic-guide-width: 72px;
+    background: #051825 !important;
+}
+
+ytmusic-nav-bar[is-bauhaus-sidenav-enabled] .left-content.ytmusic-nav-bar {
+    padding-left: 16px;
+    display: flex;
+    align-items: center;
+    width: var(--ytmusic-guide-width);
+    flex-shrink: 0;
+    height: 100%;
+    box-sizing: border-box;
+    background: #051825 !important;
+}
+
+ytmusic-two-column-browse-results-renderer {
+    --margin-between-sections: 16px;
+    --max-width-lhs: 379px;
+    --max-width-rhs: 642px;
+    --minimum-page-side-margin: 56px;
+    --total-side-margin-within-primary: 32px;
+    --primary-content-width: min(calc(100% - var(--total-side-margin-within-primary)),calc(var(--max-width-lhs) - var(--total-side-margin-within-primary) - var( --margin-between-sections )));
+    --primary-top-margin: 24px;
+    --secondary-top-margin: calc(16px + var(--primary-top-margin));
+    --ytmusic-title-line-clamp: 4;
+    flex-direction: row;
+    max-width: calc(var(--max-width-rhs) + var(--primary-content-width) + var(--margin-between-sections) - var(--minimum-page-side-margin)*2);
+
+    background: #051825 !important;
+}
+
+ytmusic-nav-bar {
+    display: flex;
+    height: var(--ytmusic-nav-bar-height);
+    box-sizing: border-box;
+    padding: 0 16px;
+    align-items: center;
+    justify-content: space-between;
+    --ytmusic-nav-bar-tab-margin: 24px;
+    background: #051825 !important;
+}

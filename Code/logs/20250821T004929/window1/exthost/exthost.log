@@ -1,0 +1,24 @@
+2025-08-21 00:49:30.926 [info] Extension host with pid 45024 started
+2025-08-21 00:49:31.215 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-08-21 00:49:31.241 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-21 00:49:31.306 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-08-21 00:49:31.309 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+2025-08-21 00:49:31.484 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-08-21 00:49:31.523 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-08-21 00:49:31.637 [info] Eager extensions activated
+2025-08-21 00:49:31.673 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 00:49:31.676 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 00:49:31.703 [info] ExtensionService#_doActivateExtension alexdauenhauer.catppuccin-noctis-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 00:49:31.708 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 00:49:31.759 [info] ExtensionService#_doActivateExtension brian-njogu.gitlantis, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 00:49:31.768 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 00:49:32.233 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 00:49:32.236 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 00:49:32.489 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 00:49:32.551 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-21 00:49:32.557 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-21 00:49:32.603 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-21 00:51:01.384 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalCompletionsRequested'
+2025-08-21 00:51:02.313 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-08-21 02:40:24.787 [info] Extension host terminating: renderer closed the MessagePort
+2025-08-21 02:40:24.820 [info] Extension host with pid 45024 exiting with code 0

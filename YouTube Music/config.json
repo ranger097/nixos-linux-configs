@@ -1,0 +1,85 @@
+{
+	"window-size": {
+		"width": 1550,
+		"height": 806
+	},
+	"window-maximized": false,
+	"window-position": {
+		"x": 25,
+		"y": 25
+	},
+	"url": "https://music.youtube.com/watch?v=JgI6z6aQhEA&list=PLJ77UmXjk2yF5MiRgnxiWC4t8f6VHezEa&index=0",
+	"options": {
+		"tray": false,
+		"appVisible": true,
+		"autoUpdates": true,
+		"alwaysOnTop": false,
+		"hideMenu": true,
+		"hideMenuWarned": true,
+		"startAtLogin": false,
+		"disableHardwareAcceleration": false,
+		"removeUpgradeButton": false,
+		"restartOnConfigChanges": false,
+		"trayClickPlayPause": false,
+		"autoResetAppCache": false,
+		"resumeOnStart": false,
+		"likeButtons": "",
+		"proxy": "",
+		"startingPage": "",
+		"overrideUserAgent": false,
+		"usePodcastParticipantAsArtist": false,
+		"themes": [
+			"/home/ranger/yt-theme/main.css"
+		]
+	},
+	"plugins": {
+		"notifications": {},
+		"video-toggle": {
+			"mode": "custom"
+		},
+		"precise-volume": {
+			"globalShortcuts": {}
+		},
+		"discord": {
+			"listenAlong": true
+		},
+		"blur-nav-bar": {
+			"enabled": false
+		},
+		"album-color-theme": {
+			"enabled": false,
+			"ratio": 0
+		},
+		"equalizer": {
+			"enabled": true
+		},
+		"quality-changer": {
+			"enabled": true
+		},
+		"ambient-mode": {
+			"enabled": false,
+			"quality": 50,
+			"buffer": 30,
+			"interpolationTime": 1500,
+			"blur": 50,
+			"size": 100,
+			"opacity": 0.9,
+			"fullscreen": false
+		},
+		"lyrics-genius": {
+			"enabled": true
+		},
+		"compact-sidebar": {
+			"enabled": false
+		},
+		"in-app-menu": {
+			"enabled": false,
+			"hideDOMWindowControls": true
+		}
+	},
+	"__internal__": {
+		"migrations": {
+			"version": "3.9.0"
+		}
+	}
+}

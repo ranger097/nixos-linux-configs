@@ -1,0 +1,68 @@
+body{
+background:linear-gradient(black);
+background-repeat: no-repeat;
+background-position: center;
+
+height: 100vh;
+width: 100vw;
+background-image: url('9745.jpg');
+}
+
+.looks-cool {
+    background-color: beige;
+    padding: 1vw;
+    padding-left: 4vw;
+    padding-right: 4vw;
+    border-radius: 50px;
+    
+}
+
+.looks-cool > a{
+    color: rgb(0, 0, 0);
+    
+}
+
+.not-cool {
+    background-color: rgb(70, 70, 70);
+    padding: 1vw;
+    padding-left: 4vw;
+    padding-right: 4vw;
+    border-radius: 50px;
+}
+
+.not-cool:hover {
+    background-color: beige;
+    transition: all 0.3s ease-in-out;
+
+
+}
+
+.not-cool:hover > a {
+    color: black;
+    transition: all 0.3s ease-in-out;
+}
+
+.not-cool > a {
+    color:beige
+}
+
+nav {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3vw;
+}
+
+header {
+    background-color: black;
+    width: 100vw;
+    margin: 0%;
+    padding: 0%;
+}
+
+a {
+
+    text-decoration: none;
+}
+

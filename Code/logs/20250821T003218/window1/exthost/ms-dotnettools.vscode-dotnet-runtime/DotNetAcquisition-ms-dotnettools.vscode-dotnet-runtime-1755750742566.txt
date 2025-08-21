@@ -1,0 +1,1363 @@
+8/21/2025, 12:32:22 AM 569 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+8/21/2025, 12:32:22 AM 569 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.prompt for .NET installation requests
+
+8/21/2025, 12:32:22 AM 569 DotnetVSCodeExtensionFound
+true
+Checking extension aaravb.chrome-extension-developer-tools for .NET installation requests
+
+8/21/2025, 12:32:22 AM 569 DotnetVSCodeExtensionFound
+true
+Checking extension achil.vscode-javascript-repl for .NET installation requests
+
+8/21/2025, 12:32:22 AM 569 DotnetVSCodeExtensionFound
+true
+Checking extension alexdauenhauer.catppuccin-noctis-icons for .NET installation requests
+
+8/21/2025, 12:32:22 AM 569 DotnetVSCodeExtensionFound
+true
+Checking extension bradlc.vscode-tailwindcss for .NET installation requests
+
+8/21/2025, 12:32:22 AM 569 DotnetVSCodeExtensionFound
+true
+Checking extension brian-njogu.gitlantis for .NET installation requests
+
+8/21/2025, 12:32:22 AM 569 DotnetVSCodeExtensionFound
+true
+Checking extension dsznajder.es7-react-js-snippets for .NET installation requests
+
+8/21/2025, 12:32:22 AM 569 DotnetVSCodeExtensionFound
+true
+Checking extension ecmel.vscode-html-css for .NET installation requests
+
+8/21/2025, 12:32:22 AM 569 DotnetVSCodeExtensionFound
+true
+Checking extension isaaccodes.electronic-moonlight-theme for .NET installation requests
+
+8/21/2025, 12:32:22 AM 569 DotnetVSCodeExtensionFound
+true
+Checking extension JakeWilson.vscode-picture for .NET installation requests
+
+8/21/2025, 12:32:22 AM 569 DotnetVSCodeExtensionFound
+true
+Checking extension l7ssha.tag-inserter for .NET installation requests
+
+8/21/2025, 12:32:22 AM 569 DotnetVSCodeExtensionFound
+true
+Checking extension Lamarcke.kanagawa-black for .NET installation requests
+
+8/21/2025, 12:32:22 AM 569 DotnetVSCodeExtensionFound
+true
+Checking extension leizongmin.node-module-intellisense for .NET installation requests
+
+8/21/2025, 12:32:22 AM 569 DotnetVSCodeExtensionFound
+true
+Checking extension lolkush.quickstart for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension mgmcdermott.vscode-language-babel for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csdevkit for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csharp for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension ms-python.vscode-python-envs for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug-nightly for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.live-server for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension msjsdiag.vscode-react-native for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension NetrixIs.netrixis-blue for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension PKief.material-product-icons for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension pranaygp.vscode-css-peek for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension pushqrdx.inline-html for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension RithikDev.neon-blue-drive for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension ritwickdey.LiveServer for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension sburg.vscode-javascript-booster for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension shades-of-blue.shades-of-blue for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension sidthesloth.html5-boilerplate for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension solnurkarim.html-to-css-autocompletion for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension TaodongWu.ejs-snippets for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension thekalinga.bootstrap4-vscode for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension visualstudiotoolsforunity.vstuc for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension walkme.HTML5-extension-pack for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension xabikos.JavaScriptSnippets for .NET installation requests
+
+8/21/2025, 12:32:22 AM 570 DotnetVSCodeExtensionFound
+true
+Checking extension Zignd.html-css-class-completion for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionChange
+true
+A change was detected in the extensions. Installing .NET for new extensions.
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.prompt for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension aaravb.chrome-extension-developer-tools for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension achil.vscode-javascript-repl for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension alexdauenhauer.catppuccin-noctis-icons for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension bradlc.vscode-tailwindcss for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension brian-njogu.gitlantis for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension dsznajder.es7-react-js-snippets for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension ecmel.vscode-html-css for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension iamkd.one-monokai-italics for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension isaaccodes.electronic-moonlight-theme for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension JakeWilson.vscode-picture for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension l7ssha.tag-inserter for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension Lamarcke.kanagawa-black for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension leizongmin.node-module-intellisense for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension lolkush.quickstart for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension mgmcdermott.vscode-language-babel for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csdevkit for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csharp for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension ms-python.vscode-python-envs for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug-nightly for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.live-server for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension msjsdiag.vscode-react-native for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension NetrixIs.netrixis-blue for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension PKief.material-product-icons for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension pranaygp.vscode-css-peek for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension pushqrdx.inline-html for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension RithikDev.neon-blue-drive for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension ritwickdey.LiveServer for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension sburg.vscode-javascript-booster for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension shades-of-blue.shades-of-blue for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension sidthesloth.html5-boilerplate for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension solnurkarim.html-to-css-autocompletion for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension TaodongWu.ejs-snippets for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension thekalinga.bootstrap4-vscode for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension visualstudiotoolsforunity.vstuc for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension walkme.HTML5-extension-pack for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension xabikos.JavaScriptSnippets for .NET installation requests
+
+8/21/2025, 12:39:25 AM 853 DotnetVSCodeExtensionFound
+true
+Checking extension Zignd.html-css-class-completion for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionChange
+true
+A change was detected in the extensions. Installing .NET for new extensions.
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.prompt for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension aaravb.chrome-extension-developer-tools for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension achil.vscode-javascript-repl for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension alexdauenhauer.catppuccin-noctis-icons for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension bradlc.vscode-tailwindcss for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension brian-njogu.gitlantis for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension dsznajder.es7-react-js-snippets for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension ecmel.vscode-html-css for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension iamkd.one-monokai-italics for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension isaaccodes.electronic-moonlight-theme for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension JakeWilson.vscode-picture for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension l7ssha.tag-inserter for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension Lamarcke.kanagawa-black for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension leizongmin.node-module-intellisense for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension lolkush.quickstart for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension mgmcdermott.vscode-language-babel for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csdevkit for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csharp for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension ms-python.vscode-python-envs for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug-nightly for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.live-server for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension msjsdiag.vscode-react-native for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension NetrixIs.netrixis-blue for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension PKief.material-product-icons for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension pranaygp.vscode-css-peek for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension pushqrdx.inline-html for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension RithikDev.neon-blue-drive for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension ritwickdey.LiveServer for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension sburg.vscode-javascript-booster for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension shades-of-blue.shades-of-blue for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension sidthesloth.html5-boilerplate for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension solnurkarim.html-to-css-autocompletion for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension spixooze.oozedarktheme for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension TaodongWu.ejs-snippets for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension thekalinga.bootstrap4-vscode for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension visualstudiotoolsforunity.vstuc for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension walkme.HTML5-extension-pack for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension xabikos.JavaScriptSnippets for .NET installation requests
+
+8/21/2025, 12:40:24 AM 991 DotnetVSCodeExtensionFound
+true
+Checking extension Zignd.html-css-class-completion for .NET installation requests
+
+8/21/2025, 12:41:36 AM 836 DotnetVSCodeExtensionChange
+true
+A change was detected in the extensions. Installing .NET for new extensions.
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.prompt for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension aaravb.chrome-extension-developer-tools for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension achil.vscode-javascript-repl for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension alexdauenhauer.catppuccin-noctis-icons for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension bradlc.vscode-tailwindcss for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension brian-njogu.gitlantis for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension dsznajder.es7-react-js-snippets for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension ecmel.vscode-html-css for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension enkia.tokyo-night for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension iamkd.one-monokai-italics for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension isaaccodes.electronic-moonlight-theme for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension JakeWilson.vscode-picture for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension l7ssha.tag-inserter for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension Lamarcke.kanagawa-black for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension leizongmin.node-module-intellisense for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension lolkush.quickstart for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension mgmcdermott.vscode-language-babel for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csdevkit for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csharp for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension ms-python.vscode-python-envs for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug-nightly for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.live-server for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension msjsdiag.vscode-react-native for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension NetrixIs.netrixis-blue for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension PKief.material-product-icons for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension pranaygp.vscode-css-peek for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension pushqrdx.inline-html for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension RithikDev.neon-blue-drive for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension ritwickdey.LiveServer for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension sburg.vscode-javascript-booster for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension shades-of-blue.shades-of-blue for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension sidthesloth.html5-boilerplate for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension solnurkarim.html-to-css-autocompletion for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension spixooze.oozedarktheme for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension TaodongWu.ejs-snippets for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension thekalinga.bootstrap4-vscode for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension visualstudiotoolsforunity.vstuc for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension walkme.HTML5-extension-pack for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension xabikos.JavaScriptSnippets for .NET installation requests
+
+8/21/2025, 12:41:36 AM 837 DotnetVSCodeExtensionFound
+true
+Checking extension Zignd.html-css-class-completion for .NET installation requests
+
+8/21/2025, 12:42:15 AM 814 DotnetVSCodeExtensionChange
+true
+A change was detected in the extensions. Installing .NET for new extensions.
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.prompt for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension aaravb.chrome-extension-developer-tools for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension achil.vscode-javascript-repl for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension ajshortt.tokyo-hack for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension alexdauenhauer.catppuccin-noctis-icons for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension bradlc.vscode-tailwindcss for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension brian-njogu.gitlantis for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension dsznajder.es7-react-js-snippets for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension ecmel.vscode-html-css for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension enkia.tokyo-night for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension iamkd.one-monokai-italics for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension isaaccodes.electronic-moonlight-theme for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension JakeWilson.vscode-picture for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension l7ssha.tag-inserter for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension Lamarcke.kanagawa-black for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension leizongmin.node-module-intellisense for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension lolkush.quickstart for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension mgmcdermott.vscode-language-babel for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csdevkit for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csharp for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension ms-python.vscode-python-envs for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug-nightly for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.live-server for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension msjsdiag.vscode-react-native for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension NetrixIs.netrixis-blue for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension PKief.material-product-icons for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension pranaygp.vscode-css-peek for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension pushqrdx.inline-html for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension RithikDev.neon-blue-drive for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension ritwickdey.LiveServer for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension sburg.vscode-javascript-booster for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension shades-of-blue.shades-of-blue for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension sidthesloth.html5-boilerplate for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension solnurkarim.html-to-css-autocompletion for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension spixooze.oozedarktheme for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension TaodongWu.ejs-snippets for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension thekalinga.bootstrap4-vscode for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension visualstudiotoolsforunity.vstuc for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension walkme.HTML5-extension-pack for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension xabikos.JavaScriptSnippets for .NET installation requests
+
+8/21/2025, 12:42:15 AM 815 DotnetVSCodeExtensionFound
+true
+Checking extension Zignd.html-css-class-completion for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionChange
+true
+A change was detected in the extensions. Installing .NET for new extensions.
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.prompt for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension aaravb.chrome-extension-developer-tools for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension achil.vscode-javascript-repl for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension alexdauenhauer.catppuccin-noctis-icons for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension bradlc.vscode-tailwindcss for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension brian-njogu.gitlantis for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension dsznajder.es7-react-js-snippets for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension ecmel.vscode-html-css for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension enkia.tokyo-night for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension iamkd.one-monokai-italics for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension isaaccodes.electronic-moonlight-theme for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension JakeWilson.vscode-picture for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension l7ssha.tag-inserter for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension Lamarcke.kanagawa-black for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension leizongmin.node-module-intellisense for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension lolkush.quickstart for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension mgmcdermott.vscode-language-babel for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csdevkit for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csharp for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension ms-python.vscode-python-envs for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug-nightly for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.live-server for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension msjsdiag.vscode-react-native for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension NetrixIs.netrixis-blue for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension PKief.material-product-icons for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension pranaygp.vscode-css-peek for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension pushqrdx.inline-html for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension RithikDev.neon-blue-drive for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension ritwickdey.LiveServer for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension sburg.vscode-javascript-booster for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension shades-of-blue.shades-of-blue for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension sidthesloth.html5-boilerplate for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension solnurkarim.html-to-css-autocompletion for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension spixooze.oozedarktheme for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension TaodongWu.ejs-snippets for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension thekalinga.bootstrap4-vscode for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension visualstudiotoolsforunity.vstuc for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension walkme.HTML5-extension-pack for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension xabikos.JavaScriptSnippets for .NET installation requests
+
+8/21/2025, 12:43:00 AM 55 DotnetVSCodeExtensionFound
+true
+Checking extension Zignd.html-css-class-completion for .NET installation requests
+
+8/21/2025, 12:44:27 AM 404 DotnetVSCodeExtensionChange
+true
+A change was detected in the extensions. Installing .NET for new extensions.
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.prompt for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension aaravb.chrome-extension-developer-tools for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension achil.vscode-javascript-repl for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension alexdauenhauer.catppuccin-noctis-icons for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension bradlc.vscode-tailwindcss for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension brian-njogu.gitlantis for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension dsznajder.es7-react-js-snippets for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension ecmel.vscode-html-css for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension enkia.tokyo-night for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension iamkd.one-monokai-italics for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension isaaccodes.electronic-moonlight-theme for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension JakeWilson.vscode-picture for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension l7ssha.tag-inserter for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension Lamarcke.kanagawa-black for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension leizongmin.node-module-intellisense for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension lolkush.quickstart for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension mgmcdermott.vscode-language-babel for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csdevkit for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csharp for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension ms-python.vscode-python-envs for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug-nightly for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.live-server for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension msjsdiag.vscode-react-native for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension NetrixIs.netrixis-blue for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension PKief.material-product-icons for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension pranaygp.vscode-css-peek for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension pushqrdx.inline-html for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension RithikDev.neon-blue-drive for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension ritwickdey.LiveServer for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension sburg.vscode-javascript-booster for .NET installation requests
+
+8/21/2025, 12:44:27 AM 405 DotnetVSCodeExtensionFound
+true
+Checking extension shades-of-blue.shades-of-blue for .NET installation requests
+
+8/21/2025, 12:44:27 AM 406 DotnetVSCodeExtensionFound
+true
+Checking extension sidthesloth.html5-boilerplate for .NET installation requests
+
+8/21/2025, 12:44:27 AM 406 DotnetVSCodeExtensionFound
+true
+Checking extension solnurkarim.html-to-css-autocompletion for .NET installation requests
+
+8/21/2025, 12:44:27 AM 406 DotnetVSCodeExtensionFound
+true
+Checking extension spixooze.oozedarktheme for .NET installation requests
+
+8/21/2025, 12:44:27 AM 406 DotnetVSCodeExtensionFound
+true
+Checking extension TaodongWu.ejs-snippets for .NET installation requests
+
+8/21/2025, 12:44:27 AM 406 DotnetVSCodeExtensionFound
+true
+Checking extension thekalinga.bootstrap4-vscode for .NET installation requests
+
+8/21/2025, 12:44:27 AM 406 DotnetVSCodeExtensionFound
+true
+Checking extension visualstudiotoolsforunity.vstuc for .NET installation requests
+
+8/21/2025, 12:44:27 AM 406 DotnetVSCodeExtensionFound
+true
+Checking extension walkme.HTML5-extension-pack for .NET installation requests
+
+8/21/2025, 12:44:27 AM 406 DotnetVSCodeExtensionFound
+true
+Checking extension xabikos.JavaScriptSnippets for .NET installation requests
+
+8/21/2025, 12:44:27 AM 406 DotnetVSCodeExtensionFound
+true
+Checking extension Xav1erSue.code-glow for .NET installation requests
+
+8/21/2025, 12:44:27 AM 406 DotnetVSCodeExtensionFound
+true
+Checking extension Zignd.html-css-class-completion for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionChange
+true
+A change was detected in the extensions. Installing .NET for new extensions.
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.prompt for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension aaravb.chrome-extension-developer-tools for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension achil.vscode-javascript-repl for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension alexdauenhauer.catppuccin-noctis-icons for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension bradlc.vscode-tailwindcss for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension brian-njogu.gitlantis for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension CodeReviewer14.cyber77-vscode for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension dsznajder.es7-react-js-snippets for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension ecmel.vscode-html-css for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension enkia.tokyo-night for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension iamkd.one-monokai-italics for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension isaaccodes.electronic-moonlight-theme for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension JakeWilson.vscode-picture for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension l7ssha.tag-inserter for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension Lamarcke.kanagawa-black for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension leizongmin.node-module-intellisense for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension lolkush.quickstart for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension mgmcdermott.vscode-language-babel for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csdevkit for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csharp for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension ms-python.vscode-python-envs for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug-nightly for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.live-server for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension msjsdiag.vscode-react-native for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension NetrixIs.netrixis-blue for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension PKief.material-product-icons for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension pranaygp.vscode-css-peek for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension pushqrdx.inline-html for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension RithikDev.neon-blue-drive for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension ritwickdey.LiveServer for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension sburg.vscode-javascript-booster for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension shades-of-blue.shades-of-blue for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension sidthesloth.html5-boilerplate for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension solnurkarim.html-to-css-autocompletion for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension spixooze.oozedarktheme for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension TaodongWu.ejs-snippets for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension thekalinga.bootstrap4-vscode for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension visualstudiotoolsforunity.vstuc for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension walkme.HTML5-extension-pack for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension xabikos.JavaScriptSnippets for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension Xav1erSue.code-glow for .NET installation requests
+
+8/21/2025, 12:47:03 AM 712 DotnetVSCodeExtensionFound
+true
+Checking extension Zignd.html-css-class-completion for .NET installation requests

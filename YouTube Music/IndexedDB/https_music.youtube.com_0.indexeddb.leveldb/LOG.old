@@ -1,0 +1,6 @@
+2025/08/21-02:52:55.286 e98 Reusing MANIFEST /home/ranger/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/21-02:52:55.287 e98 Recovering log #92
+2025/08/21-02:52:55.293 e98 Reusing old log /home/ranger/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000092.log 
+2025/08/21-02:53:25.023 e99 Level-0 table #97: started
+2025/08/21-02:53:25.034 e99 Level-0 table #97: 1149886 bytes OK
+2025/08/21-02:53:25.036 e99 Delete type=0 #92

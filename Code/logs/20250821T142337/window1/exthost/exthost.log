@@ -1,0 +1,50 @@
+2025-08-21 14:23:38.393 [info] Extension host with pid 128289 started
+2025-08-21 14:23:38.457 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-08-21 14:23:38.482 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-21 14:23:38.546 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-08-21 14:23:38.548 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+2025-08-21 14:23:38.670 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-08-21 14:23:38.707 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-08-21 14:23:38.838 [info] Eager extensions activated
+2025-08-21 14:23:38.852 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 14:23:38.854 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 14:23:38.871 [info] ExtensionService#_doActivateExtension alexdauenhauer.catppuccin-noctis-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 14:23:38.874 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 14:23:38.910 [info] ExtensionService#_doActivateExtension brian-njogu.gitlantis, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 14:23:38.916 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 14:23:39.341 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 14:23:39.343 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 14:23:39.573 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 14:23:39.662 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-21 14:23:39.671 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-21 14:23:39.717 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-21 14:24:07.294 [info] Extension host terminating: renderer closed the MessagePort
+2025-08-21 14:24:07.312 [info] Extension host with pid 128289 exiting with code 0
+2025-08-21 14:24:08.303 [info] Extension host with pid 128490 started
+2025-08-21 14:24:08.303 [info] Skipping acquiring lock for /home/ranger/.config/Code/User/workspaceStorage/266d1405787173356327349eb47cfac1.
+2025-08-21 14:24:08.359 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-08-21 14:24:08.382 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-21 14:24:08.399 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-08-21 14:24:08.441 [info] ExtensionService#_doActivateExtension solnurkarim.html-to-css-autocompletion, startup: false, activationEvent: 'onLanguage:css'
+2025-08-21 14:24:08.776 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-08-21 14:24:08.779 [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+2025-08-21 14:24:08.921 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-08-21 14:24:08.959 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-08-21 14:24:08.993 [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek, startup: true, activationEvent: 'workspaceContains:**/*.css,**/*.scss,**/*.sass,**/*.less'
+2025-08-21 14:24:09.196 [info] Eager extensions activated
+2025-08-21 14:24:09.197 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 14:24:09.199 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 14:24:09.214 [info] ExtensionService#_doActivateExtension alexdauenhauer.catppuccin-noctis-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 14:24:09.218 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 14:24:09.247 [info] ExtensionService#_doActivateExtension brian-njogu.gitlantis, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 14:24:09.254 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 14:24:09.653 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 14:24:09.654 [info] ExtensionService#_doActivateExtension ms-dotnettools.vscode-dotnet-runtime, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 14:24:09.873 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-08-21 14:24:09.952 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-21 14:24:09.958 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-21 14:24:09.997 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-21 14:25:03.231 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-08-21 14:25:03.271 [info] ExtensionService#_doActivateExtension leizongmin.node-module-intellisense, startup: false, activationEvent: 'onLanguage:html'
+2025-08-21 14:26:46.854 [info] Extension host terminating: renderer closed the MessagePort
+2025-08-21 14:26:46.877 [info] Extension host with pid 128490 exiting with code 0
