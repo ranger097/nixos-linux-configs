@@ -154,6 +154,9 @@ programs.steam.enable = true;
    vulkan-tools
    betterdiscordctl
    lsd
+   waybar
+   rofi-wayland
+   neovim
   ];
   
    users.users.ranger = {
