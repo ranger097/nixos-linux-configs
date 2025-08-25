@@ -29,7 +29,7 @@
 		"overrideUserAgent": false,
 		"usePodcastParticipantAsArtist": false,
 		"themes": [
-			"/home/ranger/yt-theme/main.css"
+			"/home/ranger/nixos-linux-configs/youtube/main.css"
 		]
 	},
 	"plugins": {

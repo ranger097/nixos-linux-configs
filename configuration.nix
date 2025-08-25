@@ -158,7 +158,25 @@ programs.steam.enable = true;
    rofi-wayland
    neovim
    fish
-   eww
+   ags
+   astal.io
+   astal.gjs
+   astal.tray
+   astal.cava
+   astal.auth
+   astal.apps
+   astal.river
+   astal.mpris
+   astal.greet
+   astal.source
+   astal.notifd
+   astal.astal4
+   astal.wireplumber
+   astal.powerprofiles
+   astal.network
+   astal.hyprland
+   astal.bluetooth
+   astal.battery
   ];
   
    users.users.ranger = {
