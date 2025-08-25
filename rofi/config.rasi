@@ -1,4 +1,38 @@
+configuration {
 
-//@theme "/nix/store/4zz58bpvm85lyl9aq3xv43z4qa55gbal-rofi-1.7.9/share/rofi/themes/gruvbox-dark-hard.rasi"
+}
+@theme "/nix/store/4zz58bpvm85lyl9aq3xv43z4qa55gbal-rofi-1.7.9/share/rofi/themes/arthur.rasi"
 
-@theme "/nix/store/4zz58bpvm85lyl9aq3xv43z4qa55gbal-rofi-1.7.9/share/rofi/themes/gruvbox-light-soft.rasi"
+* {
+    font: "";
+}
+
+window {
+    background-color: #00000050;
+    border-radius: 6px;
+    transparency: "real";
+    border: 2px;
+    border-color: rgba(150,150,150,0.7);
+}
+
+element {
+    padding: 0px;
+    border-radius: 0px;
+}
+
+inputbar {
+    border-radius: 5px 5px 0px 0px;
+    background-color: #00000005;
+    border: 0px;
+}
+
+listview {
+    border-radius: 0px 0px 5px 5px;
+    border: 0px;
+    background-color: #00000005;
+}
+
+element selected.normal {
+    background-color: transparent;
+}
+
