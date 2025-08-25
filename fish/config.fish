@@ -137,3 +137,5 @@ set -gx STARSHIP_SESSION_KEY (string sub -s1 -l16 (random)(random)(random)(rando
 source (/run/current-system/sw/bin/starship init fish | psub)
 set -gx STARSHIP_CONFIG /home/ranger/nixos-linux-configs/starship.toml
 
+
+set -Ux XDG_CONFIG_HOME ~/nixos-linux-configs/fish/config.fish
