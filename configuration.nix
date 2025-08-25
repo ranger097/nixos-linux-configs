@@ -110,7 +110,7 @@ programs.steam.enable = true;
   # List packages installed in system profile. To search, run:
   # $ nix search wget
   environment.systemPackages = with pkgs; [
-  #  vim # Do not forget to add an editor to edit configuration.nix! The Nano editor is also installed by default.
+   vim
    wget
    vscode
    steam
@@ -157,14 +157,16 @@ programs.steam.enable = true;
    waybar
    rofi-wayland
    neovim
+   fish
+   eww
   ];
   
    users.users.ranger = {
-  shell = pkgs.zsh;
+  shell = pkgs.fish;
   };
 
   #Shell
-  programs.zsh = {
+  programs.fish = {
   enable = true;
   };
      
@@ -255,6 +257,12 @@ programs.steam.enable = true;
    xwayland.enable = true;
    };
   
+
+
+
+
+
+
    #Enable SDDM Login
    services.xserver.enable = true;
    services.displayManager.sddm.enable = true;
