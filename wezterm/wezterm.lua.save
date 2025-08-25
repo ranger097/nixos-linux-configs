@@ -8,11 +8,10 @@ local config = wezterm.config_builder()
 
 
 config.background = {
-
 {
 
 source = {
-File = '/home/ranger/Downloads/Black.png'
+File = '/home/ranger/Downloads/blue2.png'
 },
 width = 'Cover',
 height = 'Cover',

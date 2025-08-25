@@ -29,7 +29,7 @@ ani-cli --dub $argv
 end
 
 function zii
-sudo nano ~/.config/config.fish $argv
+sudo nano ~/.config/fish/config.fish $argv
 end
 
 function bye
@@ -138,4 +138,5 @@ source (/run/current-system/sw/bin/starship init fish | psub)
 set -gx STARSHIP_CONFIG /home/ranger/nixos-linux-configs/starship.toml
 
 
-set -Ux XDG_CONFIG_HOME ~/nixos-linux-configs/fish/config.fish
+# ~/.config/fish/config.fish
+set fish_greeting ""
